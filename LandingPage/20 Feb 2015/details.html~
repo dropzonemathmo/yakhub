@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8">
+		<title>Greenfield Template</title>
+		<meta name="generator" content="Bootply" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet">
+		<!--[if lt IE 9]>
+			<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<link href="css/styles.css" rel="stylesheet">
+
+
+
+
+	</head>
+	<body>
+
+<div class="navbar navbar-fixed-top navbar-bold" data-spy="affix" data-offset-top="1000">
+  <div class="container">
+    <div class="navbar-header">
+      <a href="#" class="navbar-brand">Home</a>
+      <a class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+    </div>
+    <div class="navbar-collapse collapse" id="navbar">
+      <ul class="nav navbar-nav">
+        <li><a href="#sec1">The Service</a></li>
+        <li><a href="#sec2">About</a></li>
+        <li><a href="#sec3">Section 3</a></li>
+        <li><a href="#sec4">Section 4</a></li>
+      </ul>
+    </div>
+   </div>
+</div>
+
+<div class="header_detail vert">
+  <div class="container">
+    
+    <h1><img src="images/logo_mascot.png" width="114" height="127">YakHub</h1>
+      <div>&nbsp;</div>
+
+  </div>
+</div>
+
+<div id="sec1" class="blurb">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+
+<div class="dropdown">
+  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+    Select Service
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">B2B Lead Generation</a></li>
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Market Research</a></li>
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Appointment Booking</a></li>
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Inbound Services</a></li>
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Other</a></li>
+  </ul>
+</div>
+<br>
+
+<div class="input-group input-group-lg">
+  <span class="input-group-addon" id="sizing-addon1">Please Contact</span>
+  <input type="text" class="form-control" placeholder="e.g. restaurants North West London" aria-describedby="sizing-addon1">
+</div>
+<br>
+
+<div class="form-group">
+  <label for="comment">Add Script</label>
+  <textarea class="form-control" rows="5" id="comment" placeholder="Hi, We are a pots and pans service..."></textarea>
+</div>
+<br>
+
+<div class="input-group input-group-lg">
+  <span class="input-group-addon" id="sizing-addon1">E-mail</span>
+  <input type="text" class="form-control" placeholder="" aria-describedby="sizing-addon1">
+</div>
+<br>
+
+<div class="input-group input-group-lg">
+  <span class="input-group-addon" id="sizing-addon1">Number</span>
+  <input type="text" class="form-control" placeholder="" aria-describedby="sizing-addon1">
+</div>
+<br>
+
+
+<a href="#" class="btn btn-default btn-lg">Submit</a>
+
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-md-offset-3 text-center">
+        <ul class="list-inline">
+          <li><i class="icon-facebook icon-2x"></i></li>
+          <li><i class="icon-twitter icon-2x"></i></li>
+          <li><i class="icon-google-plus icon-2x"></i></li>
+          <li><i class="icon-pinterest icon-2x"></i></li>
+        </ul>
+        <hr>
+        <p>Built with <i class="icon-heart-empty"></i> at <a href="http://www.bootply.com">Bootply</a>.<br>Company ©2013</p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<ul class="nav pull-right scroll-down">
+  <li><a href="#" title="Scroll down"><i class="icon-chevron-down icon-3x"></i></a></li>
+</ul>
+<ul class="nav pull-right scroll-top">
+  <li><a href="#" title="Scroll to top"><i class="icon-chevron-up icon-3x"></i></a></li>
+</ul>
+
+	<!-- script references -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/scripts.js"></script>
+	</body>
+</html>
